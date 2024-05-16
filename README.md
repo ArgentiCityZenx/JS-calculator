@@ -3,7 +3,6 @@ And yes. just as you hear it. Now you can calculate from the web in a very impre
 
 
 ##  Mathematical calculations to calculate using this magnificent calculator
-  ### Escribe aquí:
   - Sums
   - Subtractions
   - Multiplications
