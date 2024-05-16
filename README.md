@@ -15,4 +15,4 @@ Just click F12 or Fn + F12 and type sum/substract/multiply/divide/power. then ty
 "substract(22,8)" substracts 8 to 22
 "multiply(9,5)" multiplies 9 and 5
 "divide(10,2)" divides 10 by 2
-"power(7,3)" makes 7 cubed power
+"power(7,3)" makes 7 to the power of 3
